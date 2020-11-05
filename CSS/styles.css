@@ -1,0 +1,35 @@
+body{
+  background-color: #fcd703;
+  font-family: cursive;
+  font-weight: 900;
+}
+.main-heading{
+  color: red;
+}
+h1{
+  color: green;
+  line-height: 60%;
+}
+h2{
+  color: blue;
+}
+
+hr{
+  border-style: none;
+      border-top-style: dotted;
+      border-color: #c203fc;
+      border-width: 5px;
+      width: 30%;
+}
+A:link {
+ color: #036; /* Цвет непосещенных ссылок */
+}
+A:visited {
+ color: #606; /* Цвет посещенных ссылок */
+}
+A:hover {
+ color: #f00; /* Цвет ссылок при наведении на них курсора мыши */
+}
+A:active {
+ color: #ff0; /* Цвет активных ссылок */
+}
